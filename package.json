@@ -1,0 +1,70 @@
+{
+    "name": "node",
+    "version": "0.0.1",
+    "description": "",
+    "keywords": [
+        "ukkkkkkkkkk"
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "UKkkkkkkkkk <825846102@qq.com>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "blog",
+        "md": [
+            "index.md",
+            {
+                "CSS": [
+                    "less.md"
+                ]
+            },
+            {
+                "Git": [
+                    "git.md",
+                    "git安装.md"
+                ]
+            },
+            {
+                "HTML": [
+                    "webstorage.md"
+                ]
+            },
+            {
+                "JAVASCRIPT": [
+                    "babel.md",
+                    "ES6.md",
+                    "javascript.md",
+                    "jquery同步和异步.md",
+                    "promise.md",
+                    "react-router.md",
+                    "react.md",
+                    "react基础应用.md",
+                    "react路由应用.md",
+                    "webpack.md",
+                    "属性设置.md",
+                    "缓存.md"
+                ]
+            },
+            {
+                "NODEJS": [
+                    "cookie.md",
+                    "Express.md",
+                    "gulp.md",
+                    "session.md",
+                    "加密.md",
+                    "动态服务器.md",
+                    "压缩.md",
+                    "静态文件服务器.md"
+                ]
+            },
+            {
+                "微信": [
+                    "微信入门.md"
+                ]
+            }
+        ]
+    }
+}
